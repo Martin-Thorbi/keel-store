@@ -1,3 +1,54 @@
+/* Self-hosted fonts */
+@font-face{
+  font-family:"Cormorant Garamond";
+  font-style:normal;
+  font-weight:400;
+  font-display:swap;
+  src:url("fonts/cormorant-garamond-latin-400-normal.woff2") format("woff2");
+}
+@font-face{
+  font-family:"Cormorant Garamond";
+  font-style:normal;
+  font-weight:600;
+  font-display:swap;
+  src:url("fonts/cormorant-garamond-latin-600-normal.woff2") format("woff2");
+}
+@font-face{
+  font-family:"Cormorant Garamond";
+  font-style:italic;
+  font-weight:400;
+  font-display:swap;
+  src:url("fonts/cormorant-garamond-latin-400-italic.woff2") format("woff2");
+}
+@font-face{
+  font-family:"Cormorant Garamond";
+  font-style:italic;
+  font-weight:600;
+  font-display:swap;
+  src:url("fonts/cormorant-garamond-latin-600-italic.woff2") format("woff2");
+}
+@font-face{
+  font-family:"Inter";
+  font-style:normal;
+  font-weight:300;
+  font-display:swap;
+  src:url("fonts/inter-latin-300-normal.woff2") format("woff2");
+}
+@font-face{
+  font-family:"Inter";
+  font-style:normal;
+  font-weight:400;
+  font-display:swap;
+  src:url("fonts/inter-latin-400-normal.woff2") format("woff2");
+}
+@font-face{
+  font-family:"Inter";
+  font-style:normal;
+  font-weight:500;
+  font-display:swap;
+  src:url("fonts/inter-latin-500-normal.woff2") format("woff2");
+}
+
 *{
   margin:0;
   padding:0;
@@ -63,10 +114,10 @@ h1{
   font-style:italic;
   font-weight:400;
   font-size:5rem;
-  letter-spacing:2px;
+  letter-spacing:4px;
   line-height:1;
   margin-bottom:24px;
-  text-transform:uppercase
+  text-transform:uppercase;
 }
 
 .divider{
@@ -161,7 +212,7 @@ footer{
 
   h1{
     font-size:3rem;
-    letter-spacing:1px;
+    letter-spacing:2px;
   }
 
   .tagline{

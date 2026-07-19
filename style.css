@@ -111,7 +111,7 @@ header{
 }
 
 .logo{
-  max-width:450px;
+  max-width:420px;
   width:100%;
   height:auto;
   margin:0 auto 18px;
@@ -151,7 +151,7 @@ header{
 
 .bottom-left{
   display:flex;
-  align-items:flex-start;
+  align-items:flex-end;
   gap:36px;
   text-align:left;
 }
@@ -163,7 +163,7 @@ header{
 }
 
 .keel-sketch{
-  width:160px;
+  width:150px;
   height:auto;
   margin-bottom:8px;
 }

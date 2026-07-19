@@ -111,7 +111,7 @@ header{
 }
 
 .logo{
-  max-width:220px;
+  max-width:300px;
   width:100%;
   height:auto;
   margin:0 auto 18px;
@@ -163,7 +163,7 @@ header{
 }
 
 .keel-sketch{
-  width:60px;
+  width:100px;
   height:auto;
   margin-bottom:8px;
 }
@@ -235,7 +235,7 @@ a:focus-visible{
   }
 
   .logo{
-    max-width:170px;
+    max-width:220px;
   }
 
   .tagline{

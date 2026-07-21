@@ -210,6 +210,13 @@ header{
   margin-top:6px;
 }
 
+.bottom-right p a{
+  display:inline-block;
+  border:1px solid white;
+  padding:8px 16px;
+  border-radius:4px;
+}
+
 /* Links */
 a{
   text-decoration:none;

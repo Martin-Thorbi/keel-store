@@ -188,9 +188,10 @@ header{
 }
 
 .bottom-right h2{
-  font-family:Inter, sans-serif;
-  font-weight:500;
-  font-size:1rem;
+  font-family:"Cormorant Garamond", serif;
+  font-style:italic;
+  font-weight:600;
+  font-size:1.4rem;
   letter-spacing:0.5px;
   white-space:nowrap;
   color:white;
@@ -201,27 +202,30 @@ header{
 }
 
 .price{
-  font-family:Inter, sans-serif;
+  font-family:"Cormorant Garamond", serif;
+  font-style:italic;
   font-weight:400;
-  font-size:1rem;
+  font-size:1.1rem;
   letter-spacing:0.5px;
   color:white;
 }
 
 .description{
-  font-family:Inter, sans-serif;
-  font-weight:300;
-  font-size:0.9rem;
-  line-height:1.6;
+  font-family:"Cormorant Garamond", serif;
+  font-style:italic;
+  font-weight:400;
+  font-size:1.05rem;
+  line-height:1.5;
   color:white;
   text-align:left;
   max-width:320px;
 }
 
 .bottom-right p{
-  font-family:Inter, sans-serif;
-  font-weight:300;
-  font-size:0.9rem;
+  font-family:"Cormorant Garamond", serif;
+  font-style:italic;
+  font-weight:400;
+  font-size:1.05rem;
   margin-top:10px;
 }
 

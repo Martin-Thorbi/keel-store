@@ -126,11 +126,11 @@ header{
 }
 
 .tagline{
-  font-family:Inter, sans-serif;
+  font-family:"Cormorant Garamond", serif;
+  font-style:italic;
   font-weight:400;
   font-size:1.6rem;
-  letter-spacing:1px;
-  text-transform:uppercase;
+  letter-spacing:0.5px;
   color:white;
 }
 
@@ -177,13 +177,21 @@ header{
   text-align:right;
 }
 
-.lounge-heading h2,
+.lounge-heading h2{
+  font-family:"Cormorant Garamond", serif;
+  font-style:italic;
+  font-weight:600;
+  font-size:1.4rem;
+  letter-spacing:0.5px;
+  white-space:nowrap;
+  color:white;
+}
+
 .bottom-right h2{
   font-family:Inter, sans-serif;
   font-weight:500;
   font-size:1rem;
   letter-spacing:0.5px;
-  text-transform:uppercase;
   white-space:nowrap;
   color:white;
 }
@@ -206,7 +214,6 @@ header{
   font-size:0.9rem;
   line-height:1.6;
   color:white;
-  text-transform:uppercase;
   text-align:left;
   max-width:320px;
 }
@@ -216,7 +223,6 @@ header{
   font-weight:300;
   font-size:0.9rem;
   margin-top:10px;
-  text-transform:uppercase;
 }
 
 .email-box{

@@ -204,11 +204,11 @@ header{
   font-family:"Cormorant Garamond", serif;
   font-style:italic;
   font-weight:400;
-  font-size:1.05rem;
+  font-size:1.3rem;
   line-height:1.5;
   color:white;
   text-align:left;
-  max-width:320px;
+  max-width:360px;
 }
 
 .email-box{
@@ -218,6 +218,7 @@ header{
   font-size:0.9rem;
   letter-spacing:0.5px;
   border:1px solid white;
+  border-radius:8px;
   padding:10px 22px;
 }
 

@@ -1,2 +1,2 @@
-# keel-store
-keel.store
+# keelcrafting-com
+keelcrafting.com
